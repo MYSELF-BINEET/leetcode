@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/MYSELF-BINEET/leetcode/tree/master/0088-merge-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/MYSELF-BINEET/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0493-reverse-pairs](https://github.com/MYSELF-BINEET/leetcode/tree/master/0493-reverse-pairs) |
 ## Binary Search
@@ -38,4 +39,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/MYSELF-BINEET/leetcode/tree/master/0152-maximum-product-subarray) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/MYSELF-BINEET/leetcode/tree/master/0088-merge-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/MYSELF-BINEET/leetcode/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
